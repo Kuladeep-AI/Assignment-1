@@ -1,0 +1,11 @@
+
+#in python basic operation 
+
+print("Opreations on python")
+a=int(input("Enter 1st number ."))
+b=int(input(" enter 2nd number" ))
+
+print("Addition",a+b)
+print("subtration",a-b)
+print("Multiplication",a*b)
+print("Division",a/b)
