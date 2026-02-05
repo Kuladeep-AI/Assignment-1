@@ -1,2 +1,2 @@
-# Assignment-1
-in python basic operation 
+#Data Sceince Assignment-2
+in numpy,pandas,matplotlib 
